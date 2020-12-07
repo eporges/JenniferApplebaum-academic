@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jennifer W Applebaum
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PREDOC FELLOW
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Florida
+  url: "https://directory.ufhealth.org/applebaum-jennifer"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include HAI
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Understanding the complicated relationships between people and their pets, and specifically, how these relationships relate to human health outcomes.
+- One Health
+- Health disparities
+- Social inequalities
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. Student in Sociology
+    institution: University of Florida
+    year: 2017-current
+  - course: M.S. in Veterinary Medicine
+    institution: University of Florida
+    year: 2017
+  - course: B.A.
+    institution: Emerson College
+    year: 2005
+    
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:jennyapplebaum@ufl.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jwapplebaum
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=xiy5W7UAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -69,6 +72,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research takes a social approach to One Health issues using various methodological approaches. Under the mentorship of my M.S. advisor, Dr. Terry Spencer, I designed, executed, presented, and published a research project with the goal of understanding spatial health disparities and social inequalities related to the people and companion animals in target neighborhoods in Gainesville. While completing my M.S. degree I was employed as the manager of the Veterinary Community Outreach Program at UF Vet Med, which gave me extensive field experience and exposed me to the real-life problems faced by certain populations of pet owners, further motivating my desire to conduct translational research that will work toward solving some of the issues related to health outcomes. During the completion of my M.S. project and training, I gained experience in research design, spatial methodology, data collection, qualitative methodology, scientific writing, and community outreach. 
+My Ph.D. research experience thus far has taken a quantitative approach to secondary data analysis, under the mentorship of Dr. Barbara Zsembik, to understand the complicated relationships between people and their pets, and specifically, how these relationships relate to human health outcomes. 
