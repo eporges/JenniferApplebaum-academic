@@ -27,10 +27,10 @@ education:
   - course: Ph.D. Student in Sociology
     institution: University of Florida
     year: 2017-current
-  - course: M.S. in Veterinary Medicine
+  - course: M.S. in Veterinary Medical Sciences
     institution: University of Florida
     year: 2017
-  - course: B.A.
+  - course: B.A. in Interdisciplinary Studies
     institution: Emerson College
     year: 2005
     
