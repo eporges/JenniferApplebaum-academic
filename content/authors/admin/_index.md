@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jennyapplebaum@ufl.edu"  # For a direct email link, use "mailto:jennyapplebaum@ufl.edu".
+  link: mailto:jennyapplebaum@ufl.edu  # For a direct email link, use "mailto:jennyapplebaum@ufl.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jwapplebaum
