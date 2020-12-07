@@ -72,5 +72,4 @@ user_groups:
 - Visitors
 ---
 
-My research takes a social approach to One Health issues using various methodological approaches. Under the mentorship of my M.S. advisor, Dr. Terry Spencer, I designed, executed, presented, and published a research project with the goal of understanding spatial health disparities and social inequalities related to the people and companion animals in target neighborhoods in Gainesville. While completing my M.S. degree I was employed as the manager of the Veterinary Community Outreach Program at UF Vet Med, which gave me extensive field experience and exposed me to the real-life problems faced by certain populations of pet owners, further motivating my desire to conduct translational research that will work toward solving some of the issues related to health outcomes. During the completion of my M.S. project and training, I gained experience in research design, spatial methodology, data collection, qualitative methodology, scientific writing, and community outreach. 
-My Ph.D. research experience thus far has taken a quantitative approach to secondary data analysis, under the mentorship of Dr. Barbara Zsembik, to understand the complicated relationships between people and their pets, and specifically, how these relationships relate to human health outcomes. 
+about me
